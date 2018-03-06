@@ -1,0 +1,8 @@
+c:\users\jkenefick\documents\visual studio 2015\Projects\Rover\Rover\bin\Debug\Rover.exe
+c:\users\jkenefick\documents\visual studio 2015\Projects\Rover\Rover\bin\Debug\Rover.pdb
+c:\users\jkenefick\documents\visual studio 2015\Projects\Rover\Rover\obj\Debug\Rover.exe
+c:\users\jkenefick\documents\visual studio 2015\Projects\Rover\Rover\obj\Debug\Rover.pdb
+c:\Users\jKenefick\Documents\Visual Studio 2015\Projects\Rover\Rover\bin\Debug\Rover.exe.config
+c:\Users\jKenefick\Documents\Visual Studio 2015\Projects\Rover\Rover\bin\Debug\Newtonsoft.Json.dll
+c:\Users\jKenefick\Documents\Visual Studio 2015\Projects\Rover\Rover\bin\Debug\Newtonsoft.Json.xml
+c:\Users\jKenefick\Documents\Visual Studio 2015\Projects\Rover\Rover\obj\Debug\Rover.csprojResolveAssemblyReference.cache
